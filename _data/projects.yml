@@ -1,0 +1,31 @@
+# Projects data file
+# Each project should have:
+# - title: Project name
+# - description: Short description
+# - image: Path to project image
+# - tags: Array of tags
+# - url: External link (GitHub, live site, etc.)
+# - date: Project date (for display purposes)
+
+projects:
+  - title: "Slayer"
+    description: "Browser-based RTS game powered by Phaser.js and Phoenix"
+    image: "/images/slayer.png"
+    tags: ["React", "TypeScript"]
+    url: "http://slayer-game.fly.dev/"
+    date: "2024-01-15"
+    
+  - title: "Felix"
+    description: "AI-powered personal assistant"
+    image: "/images/project-2.jpg"
+    tags: ["Python", "Machine Learning"]
+    url: "https://github.com/TheArrowsmith/felix"
+    date: "2024-01-10"
+    
+  - title: "PoliseeAI"
+    description: "Legislative search and analysis tool"
+    image: "/images/poliseeai.png"
+    tags: ["Node.js", "MongoDB"]
+    url: "https://poliseeai.com/"
+    date: "2024-01-05"
+    
